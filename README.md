@@ -11,4 +11,5 @@ Ideas for name sources:
  * philosophers: https://wdq.wmflabs.org/api?q=claim[106:4964182] 
  * warriors: https://wdq.wmflabs.org/api?q=claim[106:1250916]
  * explorers: https://wdq.wmflabs.org/api?q=claim[106:11900058]
+ * months of a year
  * ...
