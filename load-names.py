@@ -76,6 +76,7 @@ def main():
             if label and is_simple_name(label):
                 for part in label.split(' '):
                     if len(part)>3:
+                        part = part.lower()
                         if part not in cache:
                             print(part)
                             cache.add(part)
